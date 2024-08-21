@@ -1,10 +1,9 @@
 Dax Dolby
 ==============
 
-Why not make the Dolby Atmos implementation easier rather than kanging 69 commits...
-
-### Warning ###
-This implementation has only been tested on Poco F4/Munch
+### Tested on the following devices ###
+- Poco F4/Munch
+- Mi 10(PRO)/UMI(CMI)
 
 ### Getting Started ###
 ---------------
@@ -19,3 +18,4 @@ https://github.com/Mudit200408/device_xiaomi_sm8250-common/commit/d9f033aa13570a
  * [**johnmart19**](https://github.com/johnmart19)
  * [**reiryuki**](https://github.com/reiryuki)
  * [**gotenksIN**](https://github.com/gotenksIN)
+ * [**Mudit200408**](https://github.com/Mudit200408)
