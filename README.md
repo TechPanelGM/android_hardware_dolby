@@ -9,9 +9,7 @@ Dax Dolby
 ---------------
 You have to pick this commit in your device tree 
 
-https://github.com/Mudit200408/device_xiaomi_sm8250-common/commit/d9f033aa13570a9f3934dceabb394f1f6180bf75
-
-# JAI SHREE RAM #
+https://github.com/TechPanelGM/android_device_xiaomi_sm8250-common/commit/3f964ccb9c8c36e42c2c80866ada318546cb9363
 
 # Credits:
  * [**HELLBOY07**](https://github.com/HELLBOY017)
